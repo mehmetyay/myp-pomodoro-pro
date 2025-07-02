@@ -1,0 +1,50 @@
+{
+    "session_history": [
+        {
+            "type": "work",
+            "duration": 1500,
+            "timestamp": "2025-07-02T03:45:07.180551"
+        },
+        {
+            "type": "break",
+            "duration": 300,
+            "timestamp": "2025-07-02T03:45:07.561651"
+        },
+        {
+            "type": "work",
+            "duration": 1500,
+            "timestamp": "2025-07-02T03:45:08.100110"
+        },
+        {
+            "type": "break",
+            "duration": 300,
+            "timestamp": "2025-07-02T03:45:12.808881"
+        },
+        {
+            "type": "work",
+            "duration": 1500,
+            "timestamp": "2025-07-02T03:45:16.262632"
+        },
+        {
+            "type": "break",
+            "duration": 300,
+            "timestamp": "2025-07-02T03:45:17.024210"
+        },
+        {
+            "type": "work",
+            "duration": 1500,
+            "timestamp": "2025-07-02T03:45:17.879649"
+        },
+        {
+            "type": "break",
+            "duration": 900,
+            "timestamp": "2025-07-02T03:45:18.173297"
+        }
+    ],
+    "tasks": [],
+    "stats": {
+        "total_productive_time": 12.776214361190796,
+        "pomodoro_count": 5,
+        "cycle_count": 1
+    }
+}
